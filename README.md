@@ -35,10 +35,6 @@ Make sure to replace `YOUR_API_KEY` in the `script.js` file with your actual Ope
 const apikey = "YOUR_API_KEY";
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📜
-
 ## Credits
 
 - This project was created by [Subh](https://github.com/SubhCodes). 🙌
